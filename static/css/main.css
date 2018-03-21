@@ -1,1 +1,18 @@
 /* you can add any styles you think could improve user's experience */
+
+li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+li p {
+  text-align: center;
+}
+
+img {
+  border: 2px solid black;
+}
+
+ul {
+  text-align: center;
+}
